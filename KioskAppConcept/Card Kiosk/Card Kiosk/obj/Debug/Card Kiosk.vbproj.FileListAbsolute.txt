@@ -1,0 +1,18 @@
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\bin\Debug\Card Kiosk.exe.config
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\bin\Debug\Card Kiosk.exe
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\bin\Debug\Card Kiosk.pdb
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\bin\Debug\Card Kiosk.xml
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\obj\Debug\Card Kiosk.vbprojResolveAssemblyReference.cache
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\obj\Debug\Card_Kiosk.SelectAmount.resources
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\obj\Debug\Card_Kiosk.SelectType.resources
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\obj\Debug\Card_Kiosk.StartPage.resources
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\obj\Debug\Card_Kiosk.Resources.resources
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\obj\Debug\Card Kiosk.vbproj.GenerateResource.Cache
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\obj\Debug\Card Kiosk.exe
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\obj\Debug\Card Kiosk.xml
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\obj\Debug\Card Kiosk.pdb
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\obj\Debug\Card_Kiosk.MessageBox.resources
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\obj\Debug\Card_Kiosk.Payment.resources
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\obj\Debug\Card_Kiosk.SelectImage.resources
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\obj\Debug\Card_Kiosk.ShoppingBasket.resources
+C:\Users\CourtChester\Documents\Term 2\Human Computer Interaction\Assignment 2\Task 2\Kiosk\Card Kiosk\Card Kiosk\Card Kiosk\obj\Debug\Card_Kiosk.HelpPage.resources
